@@ -4,7 +4,7 @@
 		<clear xdt:Transform="InsertIfMissing" />
 		<add
 		  name="Databasic.Example.OleSql"
-		  connectionString="Driver={ODBC_DRIVER_NAME};Server=SERVER_HOST;UID=USER_NAME;PWD=PASSWORD;Database=DATABASE"
+		  connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\PathToYour\Database.mdb;User Id=admin;Password=1234;"
 		  providerName="System.Data.OleDb"
 		  xdt:Transform="InsertIfMissing"
 		  xdt:Locator="Match(name)" />
