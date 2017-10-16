@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+	<connectionStrings>
+		<add
+		  name="Databasic.Example.OleSql"
+		  connectionString="Driver={ODBC_DRIVER_NAME};Server=SERVER_HOST;UID=USER_NAME;PWD=PASSWORD;Database=DATABASE"
+		  providerName="System.Data.OleDb"
+		  xdt:Transform="Remove"
+		  xdt:Locator="Match(name)" />
+	</connectionStrings>
+</configuration>
