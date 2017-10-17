@@ -1,9 +1,10 @@
 # Databasic - OLE DB
-### OLE DB - Object Linking and Embedding Database
 
 [![Latest Stable Version](https://img.shields.io/badge/Stable-v1.2.4-brightgreen.svg?style=plastic)](https://github.com/databasic-net/databasic-core/releases)
 [![License](https://img.shields.io/badge/Licence-BSD3-brightgreen.svg?style=plastic)](https://raw.githubusercontent.com/databasic-net/databasic-core/master/LICENCE.md)
 ![.NET Version](https://img.shields.io/badge/.NET->=4.0-brightgreen.svg?style=plastic)
+
+### OLE DB - Object Linking and Embedding Database
 
  Databasic - C#/VB.NET database utility
  - focusing on queries primarily based on pure SQL commands, no linq transations
