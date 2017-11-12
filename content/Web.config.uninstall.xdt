@@ -3,7 +3,7 @@
 	<connectionStrings>
 		<add
 		  name="Databasic.Example.OleSql"
-		  connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\PathToYour\Database.mdb;User Id=admin;Password=1234;"
+		  connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\PathToYour\Database.mdb;User Id=USER_NAME;Password=PASSWORD;"
 		  providerName="System.Data.OleDb"
 		  xdt:Transform="Remove"
 		  xdt:Locator="Match(name)" />
